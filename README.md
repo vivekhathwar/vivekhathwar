@@ -1,5 +1,6 @@
 ## **Vivek V Hathwar here...**
 ### Let me tell you the story of how I became a software engineer:
+
 ![](story1.gif)
    
   
@@ -25,7 +26,8 @@ Project Rank | Project Link
 :2nd_place_medal: | [Samksrutha Stemmer](https://github.com/vivekhathwar/SanskritParser)
 :3rd_place_medal:|[Anti Cyber Bullying](https://github.com/vivekhathwar/Anti-Cyber-Bullying)
 
-![](sorry.gif)All are NLP projects!
+
+All are NLP projects!
 
 
 Thanks for visiting my GitHub profile.
