@@ -1,7 +1,7 @@
 ## **Vivek V Hathwar here...**
 ### Let me tell you the story of how I became a software engineer:
 
-![](https://gihub.com/vivekhathwar/vivekhathwar/story1.gif)
+![](https://github.com/vivekhathwar/vivekhathwar/blob/master/story1.gif)
    
   
   Not so long ago in 2014 I completed my SSLC (10th) with a staggering 97%. Seeing this few relatives and friends suggested taking up science stream. So, I took a science stream combination of PCMS (Physics, Chemistry, Mathematics and Statistics).
@@ -33,4 +33,4 @@ All are NLP projects!
 
 Thanks for visiting my GitHub profile.
 Until next time bye!
-![](https://github.com/vivekhathwar/vivekhathwar/bye.gif)
+![](https://github.com/vivekhathwar/vivekhathwar/blob/master/bye.gif)
