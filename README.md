@@ -1,8 +1,8 @@
 ## **Vivek V Hathwar here...**
 ### Let me tell you the story of how I became a software engineer:
-
-![](https://github.com/vivekhathwar/vivekhathwar/blob/master/story1.gif)
-   
+<p align="center">
+   <img src="https://github.com/vivekhathwar/vivekhathwar/blob/master/story1.gif">
+</p>
   
   Not so long ago in 2014 I completed my SSLC (10th) with a staggering 97%. Seeing this few relatives and friends suggested taking up science stream. So, I took a science stream combination of PCMS (Physics, Chemistry, Mathematics and Statistics).
 I got 96%. And, there was a buzz going on saying computer science is the deal and, engineering is the best. Influenced by the trend I ended up choosing engineering in a prestigious college.
@@ -26,10 +26,12 @@ Project Rank | Project Link
 :2nd_place_medal: | [Samksrutha Stemmer](https://github.com/vivekhathwar/SanskritParser)
 :3rd_place_medal:|[Anti Cyber Bullying](https://github.com/vivekhathwar/Anti-Cyber-Bullying)
 
-
-All are NLP projects! 
-![](https://github.com/vivekhathwar/vivekhathwar/blob/master/sorry.gif)
-
+<div>
+   <h4 align="center">
+      All are NLP projects!
+      <img src="https://github.com/vivekhathwar/vivekhathwar/blob/master/sorry.gif">
+   </h4>
+</div>
 
 Thanks for visiting my GitHub profile.
 Until next time bye!
